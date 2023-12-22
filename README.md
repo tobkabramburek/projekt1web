@@ -8,6 +8,7 @@ Jelikož jsem „programátor“ amatér, tak jsem se snažil udělat web, kter�
 Současný stav projektu je rozpracovaný, pracuji na něm něco přes týden a snažím se učit z videí i od mých kamarádů. Momentální verze je jen zlomek toho co jsem chtěl udělat a budu se snažit o vylepšení a zdokonalování. 
 Na Webu zatím fungují jen „podnadpisy“ a jejich otevření na nové stránce.
 Musím ještě upravit Úvodní stranu a přidat na ni více informací.
+Zde přikládám video: https://youtu.be/tmkhiMNZWC0
 
 # Postup: 
 
