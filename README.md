@@ -23,7 +23,6 @@ Po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod
 
 
 
-                                                                          : ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/f9b008a0-ddc7-4054-a6ab-fe410342cf83)
 
 
 
