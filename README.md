@@ -1,4 +1,4 @@
-# PROJEKT WEB
+# PROJEKT WEB - vypracoval Sobotka Tobiáš T3A
 ## Dobrý den, v tomto dokumentu odevzádám svůj projekt na předmět MPS.
 ## Tento koncept projektu slouží převážně pro fanoušky sportu, E-Sportu a jejich novinek. Dočíst se tu můžete statistiky, výsledky, novinky ze světa sportu a E-Sportu. (programováno ve Visual Studio Code)
 
