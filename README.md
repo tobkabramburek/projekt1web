@@ -39,6 +39,14 @@ Poté jsem se inspiroval Livesportem a chtěl jsem udělat podnadpisy různých 
 Dále jsem musel vymyslet pozadí, které bude pod všemi stránkami. Napadlo mě zkombinovat sport a E-Sport a ve Photoshopu upravit tak, aby to nějak vypadalo.
 ![pozadiwebu](https://github.com/tobkabramburek/projekt1web/assets/154604536/aae03b35-d48c-48bc-b734-3f438335be9e)
 
+Propojení odkazů bylo to nejtežší pro mě, protože jsem to nikdy nedělal. Musel jsem propojit hlavní (úvodní stranu) s ostatními stranami podnadpisů. 
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/67c51e38-05e4-4feb-8e70-5429e96f2669)
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/194849fd-1bf2-41fb-8919-0bef165d4234)
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/1a644ed2-b1de-4cb2-b4d9-db00b6da8058)
+
+
+
+
 
 
 
