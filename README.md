@@ -52,6 +52,10 @@ https://www.jakpsatweb.cz/priklady/fonty.html
 https://blog.inpage.cz/inpage/16-hezkych-pisem-pro-vase-stranky-jednoduse-a-snadno/
 https://code.visualstudio.com/
 
+#Závěr 
+Ano, vím není do dokonalé ale budu se to snažit vylepšit co to jde, zároveň jsem se naučil trochu zacházet s nástroji a vymoženostmi VSC.
+
+
 
 
 
