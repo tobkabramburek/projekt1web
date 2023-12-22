@@ -14,6 +14,8 @@ Zde přikládám video: https://youtu.be/tmkhiMNZWC0
 # Postup: 
 Začínal jsem se zkušenostmi z hodin paní Skalové a jelikož máme webové programování jen pár měsíců, musel jsem si pomoci videi které jsou uvedeny v PODĚKOVÁNÍ.
 Muj úplně první výtvor bez pomoci google a youtube byl tento: 
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/c99e4b24-4bf3-4465-bfc6-e0442005d0d0)
+
 
 
 
