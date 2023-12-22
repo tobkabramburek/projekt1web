@@ -1,6 +1,6 @@
 # PROJEKT WEB
 ## Dobrý den, v tomto dokumentu odevzádám svůj projekt na předmět MPS.
-## Tento koncept projektu slouží převážně pro fanoušky sportu, E-Sportu a jejich novinek. Dočíst se tu můžete statistiky, výsledky, novinky ze světa sportu a E-Sportu.
+## Tento koncept projektu slouží převážně pro fanoušky sportu, E-Sportu a jejich novinek. Dočíst se tu můžete statistiky, výsledky, novinky ze světa sportu a E-Sportu. (programováno ve Visual Studio Code)
 
 # Zadání:
 Jelikož jsem „programátor“ amatér, tak jsem se snažil udělat web, který bude v budoucnu sloužit jako stránka pro sportovní a E-sportové výsledky a rozšiřovat aktuality do světa.
@@ -15,13 +15,6 @@ Zde přikládám video: https://youtu.be/tmkhiMNZWC0
 Začínal jsem se zkušenostmi z hodin paní Skalové a jelikož máme webové programování jen pár měsíců, musel jsem si pomoci videi které jsou uvedeny v PODĚKOVÁNÍ.
 Muj úplně první výtvor bez pomoci google a youtube byl tento: 
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/c99e4b24-4bf3-4465-bfc6-e0442005d0d0)
-
-
-
-
-
-
-
 
 
 
@@ -43,6 +36,21 @@ Propojení odkazů bylo to nejtežší pro mě, protože jsem to nikdy nedělal.
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/67c51e38-05e4-4feb-8e70-5429e96f2669)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/194849fd-1bf2-41fb-8919-0bef165d4234)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/1a644ed2-b1de-4cb2-b4d9-db00b6da8058)
+
+
+# Spolupracovníci
+Tímto bych chtěl poděkovat svému kamarádovi Danovi za propůjčení Photoshopu a následné radě, jak u propojit podnadpisy mezi sebou.
+Také YouTube kanálu David Šetek - Hackni svou budoucnost za srozumitelně a přehledně zpracované videa.
+Na chatGPT nesmím zapomenout.
+
+# Zdroje
+https://cz.pinterest.com/
+https://chat.openai.com/
+https://www.livesport.cz/
+https://www.youtube.com/@hacknisvoubudoucnost/videos
+https://www.jakpsatweb.cz/priklady/fonty.html
+https://blog.inpage.cz/inpage/16-hezkych-pisem-pro-vase-stranky-jednoduse-a-snadno/
+https://code.visualstudio.com/
 
 
 
