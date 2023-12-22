@@ -28,6 +28,18 @@ Muj úplně první výtvor bez pomoci google a youtube byl tento:
 Po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/53d3ec3e-2487-4f73-93c8-6528b69f1109)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/4df4d7c6-7f18-434c-91d4-3819ecca9768)
 
+což vypadá takto:
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/066302ca-7185-424d-ac3e-dff7e2420a6e)
+
+Poté jsem se inspiroval Livesportem a chtěl jsem udělat podnadpisy různých Sportovních událostí.
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/8f2b36d5-8462-4cda-aa0a-fbc16705d60d)
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/c3184524-203c-4c08-a478-934d422a6d66)
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/0926e4f5-0870-49ec-91d6-296dde069cb9)
+
+
+
+
+
 
 
 
