@@ -20,7 +20,7 @@ Muj úplně první výtvor bez pomoci google a youtube byl tento: ![image](https
 
 
 
-Po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/53d3ec3e-2487-4f73-93c8-6528b69f1109)
+
 
 
 
