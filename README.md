@@ -15,6 +15,14 @@ Zde přikládám video: https://youtu.be/tmkhiMNZWC0
 Začínal jsem se zkušenostmi z hodin paní Skalové a jelikož máme webové programování jen pár měsíců, musel jsem si pomoci videi které jsou uvedeny v PODĚKOVÁNÍ.
 Muj úplně první výtvor bez pomoci google a youtube byl tento: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/12fc3dec-7446-448c-83b1-006058b575b8)
 Po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/53d3ec3e-2487-4f73-93c8-6528b69f1109)
+
+
+
+
+
+
+
+
                                                                           : ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/f9b008a0-ddc7-4054-a6ab-fe410342cf83)
 
 
