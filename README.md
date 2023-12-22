@@ -1,2 +1,1 @@
-# projekt1web
-projekt_sobotkatobias
+# PROJEKT WEB
