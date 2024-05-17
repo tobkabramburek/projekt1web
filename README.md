@@ -13,21 +13,18 @@ Zde přikládám video: https://youtu.be/tmkhiMNZWC0](https://youtu.be/SdpYgVVKE
 # Postup: 
 Začínal jsem se zkušenostmi z hodin paní Skalové a jelikož máme webové programování jen pár měsíců, musel jsem si pomoci videi které jsou uvedeny v PODĚKOVÁNÍ.
 
-Po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/53d3ec3e-2487-4f73-93c8-6528b69f1109)
+V prvním pokusu po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/53d3ec3e-2487-4f73-93c8-6528b69f1109)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/4df4d7c6-7f18-434c-91d4-3819ecca9768)
 
 což vypadá takto:
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/066302ca-7185-424d-ac3e-dff7e2420a6e)
 
-Poté jsem se inspiroval Livesportem a chtěl jsem udělat podnadpisy různých Sportovních událostí.
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/8f2b36d5-8462-4cda-aa0a-fbc16705d60d)
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/c3184524-203c-4c08-a478-934d422a6d66)
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/0926e4f5-0870-49ec-91d6-296dde069cb9)
+Jako další projekt jsem se rozhodl udělat úplně něco jiného, i z důvodu že bych neměl práva na fotbalové statistiky a novinky.
+tudíž jsem začal s tímto
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/e4540bd9-b1ce-4cc8-9d3f-8a19793ebd4c)
 
-Dále jsem musel vymyslet pozadí, které bude pod všemi stránkami. Napadlo mě zkombinovat sport a E-Sport a ve Photoshopu upravit tak, aby to nějak vypadalo.
-![pozadiwebu](https://github.com/tobkabramburek/projekt1web/assets/154604536/aae03b35-d48c-48bc-b734-3f438335be9e)
 
-Propojení odkazů bylo to nejtežší pro mě, protože jsem to nikdy nedělal. Musel jsem propojit hlavní (úvodní stranu) s ostatními stranami podnadpisů. 
+Oproti minulému pokusu z 1. pololetí, jsem už věděl jak spojit všechny části kodu aby fungovalo jednoduché propojení na webu.
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/67c51e38-05e4-4feb-8e70-5429e96f2669)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/194849fd-1bf2-41fb-8919-0bef165d4234)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/1a644ed2-b1de-4cb2-b4d9-db00b6da8058)
