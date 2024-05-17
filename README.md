@@ -16,8 +16,6 @@ Začínal jsem se zkušenostmi z hodin paní Skalové a jelikož máme webové p
 V prvním pokusu po shlédnutí pár videi a pomoci chatGPT a kamarádů jsem vytvořil tento kod: ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/53d3ec3e-2487-4f73-93c8-6528b69f1109)
 ![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/4df4d7c6-7f18-434c-91d4-3819ecca9768)
 
-což vypadá takto:
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/066302ca-7185-424d-ac3e-dff7e2420a6e)
 
 Jako další projekt jsem se rozhodl udělat úplně něco jiného, i z důvodu že bych neměl práva na fotbalové statistiky a novinky.
 tudíž jsem začal s tímto
@@ -25,27 +23,34 @@ tudíž jsem začal s tímto
 
 
 Oproti minulému pokusu z 1. pololetí, jsem už věděl jak spojit všechny části kodu aby fungovalo jednoduché propojení na webu.
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/67c51e38-05e4-4feb-8e70-5429e96f2669)
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/194849fd-1bf2-41fb-8919-0bef165d4234)
-![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/1a644ed2-b1de-4cb2-b4d9-db00b6da8058)
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/99caa3d0-f01b-4426-a387-768f3a89620f)
+
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/db7895e7-d379-463a-8fa1-1ef7a6e4fa36)
+
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/8d047ef0-bb17-414a-a33b-1bc01345801d)
+
+![image](https://github.com/tobkabramburek/projekt1web/assets/154604536/65f16b17-e4c6-44b4-b068-e79e22c0c193)
+
+
 
 
 # Spolupracovníci
-Tímto bych chtěl poděkovat svému kamarádovi Danovi za propůjčení Photoshopu a následné radě, jak u propojit podnadpisy mezi sebou.
-Také YouTube kanálu David Šetek - Hackni svou budoucnost za srozumitelně a přehledně zpracované videa.
+Musím vzdát velký hold kanálu David Šetek - Hackni svou budoucnost za srozumitelně a přehledně zpracované videa.
 Na chatGPT nesmím zapomenout.
 
 # Zdroje
 https://cz.pinterest.com/
 https://chat.openai.com/
-https://www.livesport.cz/
+https://apartmany-vrsi.cz/
 https://www.youtube.com/@hacknisvoubudoucnost/videos
 https://www.jakpsatweb.cz/priklady/fonty.html
 https://blog.inpage.cz/inpage/16-hezkych-pisem-pro-vase-stranky-jednoduse-a-snadno/
 https://code.visualstudio.com/
 
 # Závěr 
-Ano, vím není do dokonalé ale budu se to snažit vylepšit co to jde, zároveň jsem se naučil trochu zacházet s nástroji a vymoženostmi VSC.
+Vím že můj výkon je hodně slabý ale poposnažím se to příští týden zlepšit, popřípadě zlepšit známku opravou.
+
+Hezký den přeji :))))
 
 
 
